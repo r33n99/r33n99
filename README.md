@@ -44,6 +44,7 @@ Hi, I'm Rinat Razhapov, I am a novice front-end developer, with a great desire t
 | [Wow](https://github.com/r33n99/wowchar/tree/main/WowChar) | App for buy char in World of Warcraft | Vue.js |
 | [Slider](https://github.com/r33n99/slider) | Slider for website integration | Vanilla js |
 | [Drag and Drop](https://github.com/r33n99/dnd/tree/master/drag) | Drag and Drop app | React.js |
+| [ToDo](https://github.com/r33n99/TodoApp/tree/master) | To Do app | React.js |
 
 
 
