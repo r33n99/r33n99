@@ -34,7 +34,6 @@ Hi, I'm Rinat Razhapov, I am a novice front-end developer, with a great desire t
 
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
-| [Burgers](https://github.com/r33n99/BurgerShop) | Webapp online store for the sale of burgers. | SPA on React,hooks, |
 | [Social Network](https://github.com/r33n99/socialNetwork/tree/master) | Copy of the social network | React, Redux, Fetch API |
 | [Movie on React](https://github.com/r33n99/MovieAppOnReact) | Website for finding current movies | React, Fetch API |
 | [Food court](https://github.com/r33n99/Food) | Website for the distribution of proper nutrition | Vanilla js |
