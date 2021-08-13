@@ -35,7 +35,7 @@ Hi, I'm Rinat Razhapov, I am a novice front-end developer, with a great desire t
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
 | [Social Network](https://github.com/r33n99/socialNetwork/tree/master) | Copy of the social network | React, Redux, Fetch API |
-| [Sushi internet shop](https://r33n99.github.io/) | Sushi market | React, mockapi, React-hooks, SCSS, Router |
+| [Sushi internet shop](https://vibrant-fermat-d21391.netlify.app/) | Sushi market | React, mockapi, React-hooks, SCSS, Router |
 | [Game of Thrones](https://github.com/r33n99/GotOnReact/tree/master) | Game of Thrones Wikipedia-type app | React, Fetch API |
 | [Movie on React](https://github.com/r33n99/MovieAppOnReact) | Website for finding current movies | React, Fetch API |
 | [Food court](https://github.com/r33n99/Food) | Website for the distribution of proper nutrition | Vanilla js, Fetch API |
