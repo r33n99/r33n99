@@ -34,7 +34,7 @@ Hi, I'm Rinat Razhapov, I am a novice front-end developer, with a great desire t
 
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
-| [Sushi internet shop](https://vibrant-fermat-d21391.netlify.app/) | Sushi market | React, mockapi, React-hooks, SCSS, Router,Skeleton |
+| [Sushi internet shop](https://sushimarket.netlify.app/) | Sushi market | React, mockapi, React-hooks, SCSS, Router,Skeleton |
 | [Pizza internet shop](https://github.com/r33n99/PizzaShop/tree/master) | Pizza market | React,Redux, json-server, React-hooks, SCSS, Router,Skeleton |
 | [Site on Next.js](https://next-js-git-test-nextest.vercel.app/) | test-site-blog | Next.js,jsonplaceholder |
 | [Players registration service](https://loving-almeida-ad566b.netlify.app/) | games | React, SCSS, Router |
