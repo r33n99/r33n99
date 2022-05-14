@@ -28,14 +28,3 @@ Hi, I'm Rinat Razhapov, I am a novice front-end developer, with a great desire t
 <code><img height="20" src="https://banner2.cleanpng.com/20180428/hdw/kisspng-web-development-cascading-style-sheets-css3-html-5ae480842a86a5.9529807215249245481742.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
 
-
-
-
-📈 My GitHub Stats
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=r33n99" alt="abhisheknaiidu" />
-
-
-
-
