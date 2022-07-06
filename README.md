@@ -12,7 +12,11 @@
 <br />
 
 
-Hi, I'm Rinat Razhapov, I am a novice front-end developer, with a great desire to achieve great success in this field:)
+Good afternoon, my name is Rinat, I am 23 years old, I have been engaged in frontend development for 2 years. There is a confident knowledge of react, redux, javascript (es6+), typescript, layout (preprocessors, bem) and next.js . Knowledge secured in work, participated in a startup (learning platform), freelance, web studio.
+My responsibilities included:
+-development of new functionality, support of the old one.
+-layout
+-refactoring
 
   <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="200">
 
