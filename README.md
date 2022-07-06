@@ -5,7 +5,7 @@
 <a href="https://t.me/r33n99">
   <img align="left" alt="George's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/r33n99/">
+<a style={{color:white}} href="https://www.instagram.com/r33n99/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
