@@ -10,7 +10,8 @@
 </a>
 
 <br />
-
+![](https://komarev.com/ghpvc/?username=r33n99)
+<br />
 
 Good afternoon, my name is Rinat, I am 23 years old, I have been engaged in frontend development for 2 years. There is a confident knowledge of react, redux, javascript (es6+), typescript, layout (preprocessors, bem) and next.js . Knowledge secured in work, participated in a startup (learning platform), freelance, web studio.
 My responsibilities included:
